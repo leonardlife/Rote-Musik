@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "tracks": [
+    {
+      "id": "li-muzi-midnight",
+      "name": "Minutes to Midnight",
+      "audio": "audio/Geneburn - Minutes to Midnight.mp3",
+      "emotion": ["神秘", "紧张", "孤独"],
+      "scene": [],
+      "event": [],
+      "person": ["李沐子"]
+    },
+    {
+      "id": "longing-xiangsi",
+      "name": "相思",
+      "audio": "audio/相思(伴奏)-毛阿敏.mp3",
+      "emotion": ["忧伤", "浪漫"],
+      "scene": [],
+      "event": ["离别", "重逢"],
+      "person": []
+    },
+    {
+      "id": "longing-legend",
+      "name": "传奇",
+      "audio": "audio/传奇 (伴奏)-王菲[内地].mp3",
+      "emotion": ["忧伤", "浪漫"],
+      "scene": [],
+      "event": ["离别", "重逢"],
+      "person": []
+    },
+    {
+      "id": "battle-konglan-shuangxue",
+      "name": "空岚霜雪",
+      "audio": "audio/空岚霜雪 - それぞれの未来のために 八方2.mp3",
+      "emotion": ["激昂", "紧张"],
+      "scene": ["战场"],
+      "event": ["战斗", "决斗"],
+      "person": []
+    },
+    {
+      "id": "battle-mountain",
+      "name": "10 Battle of the Mountain",
+      "audio": "audio/Heated_iced_coffee_-_10_Battle_of_the_Mountain.mp3",
+      "emotion": ["激昂", "紧张"],
+      "scene": ["战场"],
+      "event": ["战斗", "决斗"],
+      "person": []
+    },
+    {
+      "id": "postwar-good-riddance",
+      "name": "Good Riddance",
+      "audio": "audio/Darren Korb,Eurydice Solo,Ashley Barrett - Good Riddance.mp3",
+      "emotion": ["平静", "释然", "温馨"],
+      "scene": [],
+      "event": ["战后", "休整"],
+      "person": []
+    },
+    {
+      "id": "daily-foxtail",
+      "name": "沢の河城工務店",
+      "audio": "audio/Foxtail-Grass Studio - 沢の河城工務店.mp3",
+      "emotion": ["平静", "欢快", "温馨"],
+      "scene": ["都市", "街道", "家中"],
+      "event": ["对话", "逛街"],
+      "person": [],
+      "fallback": true
+    },
+    {
+      "id": "daily-tsutaeru-kokoro",
+      "name": "伝える心",
+      "audio": "audio/虻川治 - 伝える心.mp3",
+      "emotion": ["平静", "欢快", "温馨"],
+      "scene": ["都市", "街道", "家中"],
+      "event": ["对话", "逛街"],
+      "person": []
+    },
+    {
+      "id": "daily-hiyamugi-somen",
+      "name": "ひやむぎ、そーめん、时々うどん",
+      "audio": "audio/Foxtail-Grass Studio,ハム - ひやむぎ、そーめん、时々うどん.mp3",
+      "emotion": ["平静", "欢快", "温馨"],
+      "scene": ["都市", "街道", "家中"],
+      "event": ["对话", "逛街"],
+      "person": []
+    },
+    {
+      "id": "battle-qinwang-pozhen",
+      "name": "秦王破阵",
+      "audio": "audio/秦王破阵.mp3",
+      "emotion": ["激昂", "紧张"],
+      "scene": ["战场"],
+      "event": ["战斗", "决斗"],
+      "person": []
+    },
+    {
+      "id": "qingcheng-qingling-baiji",
+      "name": "青城山下白素贞",
+      "audio": "audio/青城山下白素贞（古筝版）-花茶L.mp3",
+      "emotion": [],
+      "scene": [],
+      "event": [],
+      "person": ["青铃", "白霁"]
+    },
+    {
+      "id": "night-wolumode",
+      "name": "The Night of Wolumode",
+      "audio": "audio/Friend.The Night of Wolumode.mp3",
+      "emotion": ["平静", "放松"],
+      "scene": ["夜晚"],
+      "event": ["休闲"],
+      "person": []
+    },
+    {
+      "id": "sunset-visage",
+      "name": "Visage",
+      "audio": "audio/Visage.mp3",
+      "emotion": ["忧伤", "平静"],
+      "scene": ["夕阳", "傍晚"],
+      "event": [],
+      "person": []
+    }
+  ]
+}
