@@ -49,7 +49,7 @@
     {
       "id": "postwar-good-riddance",
       "name": "Good Riddance",
-      "audio": "audio/Darren Korb,Eurydice Solo,Ashley Barrett - Good Riddance.mp3",
+      "audio": "audio/Good Riddance.mp3",
       "emotion": ["平静", "释然", "温馨"],
       "scene": [],
       "event": ["战后", "休整"],
