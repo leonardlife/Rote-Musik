@@ -118,6 +118,33 @@
       "scene": ["夕阳", "傍晚"],
       "event": [],
       "person": []
+    },
+    {
+      "id": "explore-ad-astra",
+      "name": "Ad Astra",
+      "audio": "audio/Ad astra.mp3",
+      "emotion": [],
+      "scene": ["万古星河"],
+      "event": ["探索"],
+      "person": []
+    },
+    {
+      "id": "leave-earth-control-wishes",
+      "name": "Control's Wishes",
+      "audio": "audio/Control's Wishes.mp3",
+      "emotion": [],
+      "scene": [],
+      "event": ["突破天幕","离开地球"],
+      "person": []
+    },
+    {
+      "id": "historical-jingshu-chunshan",
+      "name": "敬属春山",
+      "audio": "audio/敬属春山.mp3",
+      "emotion": ["沧桑"],
+      "scene": ["秘境"],
+      "event": [],
+      "person": []
     }
   ]
 }
